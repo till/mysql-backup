@@ -35,8 +35,9 @@ The frequency of backups depends on how often you crontab it. Remember that mysq
 
 ## Like it?
 
- * twitter it
+ * twitter it, or [say hello][1]
  * blog it
  * [my wishlist][0]
 
 [0]: http://www.amazon.de/gp/registry/2RAPQ0AOQL6XX
+[1]: http://twitter.com/home?status=@klimpong%20hi!%20your%20mysql-backup%20script%20rocks!
